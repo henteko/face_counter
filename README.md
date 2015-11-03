@@ -1,4 +1,6 @@
 # FaceCounter
+[![Gem Version](https://badge.fury.io/rb/face_counter.svg)](https://badge.fury.io/rb/face_counter)
+
 This gem is select image face counter.
 
 
